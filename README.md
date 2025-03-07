@@ -27,5 +27,5 @@ buildscript {
     }
 }
 
-To add the navigation component, right click on the **app** -> **New** -> **Android Resource File** -> give the **File Name**  as **nav_graph**, select **Resource Type** as **Navigation**
+To add the navigation component, right click on the **app** -> **New** -> **Android Resource File** -> give the **File Name**  as **nav_graph**, select **Resource Type** as **Navigation**.
 Now, the navigation folder gets created under the res folder with nav_graph.xml file in it
