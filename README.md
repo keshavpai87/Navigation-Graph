@@ -37,10 +37,13 @@ Select **nav_graph** and click on **OK**. Click on the **infer constraints** ![i
 option once done
 
 Now, we can see the actviity_main.xml screen as below
+
 ![image](https://github.com/user-attachments/assets/085f5b23-4939-4446-9a54-df1755292937)
+
 ![image](https://github.com/user-attachments/assets/4fb8cd31-4b5c-47fb-a5ca-298b9eb9358a)
 
 Also, the nav_graph page will look like below
+
 ![image](https://github.com/user-attachments/assets/fd2f9766-d7c1-4961-b05f-c631fd1b21c6)
 
 
